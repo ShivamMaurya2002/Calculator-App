@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html, body {
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(10, 25, 47, 0.95);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+  }
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .calculator {
+    backdrop-filter: blur(15px);
+     background-color: rgba(10, 25, 47, 0.194);
+    border-radius: 20px;
+    border: 1.2px solid #64ffdb8a;
+    box-shadow: 0 0 30px rgba(0, 255, 255, 0.2);
+    padding: 20px;
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .calculator-screen {
+    width: 100%;
+    height: 70px;
+    padding: 10px;
+    font-size: 2rem;
+    background: rgba(4, 41, 96, 0.107);
+    border: 1.2px solid #64ffdb8a;
+    border-radius: 12px;
+    color: #00ffe7;
+    text-align: right;
+    box-shadow: inset 0 0 5px #00ffff88;
+    outline: none;
+    margin-bottom: 20px;
+  }
+
+  .calculator-keys {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+  }
+
+  button {
+    height: 58px;
+    font-weight: 600;
+    font-size: 1.2rem;
+    border-radius: 15px;
+    border: 1.1px solid #00ffee;
+    background-color: rgba(10, 25, 47, 0.194);
+    color:  #00ffee;
+    box-shadow: 0 0 10px #0ff5f9a4, -4px -4px 12px #111;
+    transition: all 0.5s ease;
+    cursor: pointer;
+    width: 98%;
+  }
+
+  button:hover {
+    font-weight: 600;
+    background: #00ffe5b9;
+    color: black;
+    font-weight: bold;
+    transform: translateY(-2px);
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.6);
+  }
+
+  @media screen and (max-width: 480px) {
+    .calculator {
+      padding: 15px;
+      border-radius: 15px;
+    }
+
+    .calculator-screen {
+      font-size: 1.5rem;
+      padding: 10px;
+      height: 60px;
+    }
+
+    button {
+      font-size: 1rem;
+      height: 50px;
+    }
+
+    .calculator-keys {
+      gap: 10px;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    button {
+      font-size: 0.9rem;
+      padding: 6px;
+    }
+  }
