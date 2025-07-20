@@ -1,8 +1,4 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
+* { box-sizing: border-box; margin: 0; padding: 0; }
 
   html, body {
     width: 100%;
@@ -15,16 +11,11 @@
     overflow-x: hidden;
   }
 
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-  }
+  body { display: flex; justify-content: center; align-items: center; padding: 20px; }
 
   .calculator {
     backdrop-filter: blur(15px);
-     background-color: rgba(10, 25, 47, 0.194);
+    background-color: rgba(10, 25, 47, 0.194);
     border-radius: 20px;
     border: 1.2px solid #64ffdb8a;
     box-shadow: 0 0 30px rgba(0, 255, 255, 0.2);
@@ -48,11 +39,7 @@
     margin-bottom: 20px;
   }
 
-  .calculator-keys {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 15px;
-  }
+  .calculator-keys { display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; }
 
   button {
     height: 58px;
@@ -68,40 +55,16 @@
     width: 98%;
   }
 
-  button:hover {
-    font-weight: 600;
-    background: #00ffe5b9;
-    color: black;
-    font-weight: bold;
-    transform: translateY(-2px);
-    box-shadow: 0 0 15px rgba(0, 255, 255, 0.6);
-  }
+  button:hover { font-weight: 600; background: #00ffe5b9; color: black; font-weight: bold; transform: translateY(-2px); box-shadow: 0 0 15px rgba(0, 255, 255, 0.6); }
 
   @media screen and (max-width: 480px) {
-    .calculator {
-      padding: 15px;
-      border-radius: 15px;
-    }
+    .calculator { padding: 15px; border-radius: 15px; }
 
-    .calculator-screen {
-      font-size: 1.5rem;
-      padding: 10px;
-      height: 60px;
-    }
+    .calculator-screen { font-size: 1.5rem; padding: 10px; height: 60px; }
 
-    button {
-      font-size: 1rem;
-      height: 50px;
-    }
+    button { font-size: 1rem; height: 50px; }
 
-    .calculator-keys {
-      gap: 10px;
-    }
+    .calculator-keys { gap: 10px; }
   }
 
-  @media screen and (max-width: 320px) {
-    button {
-      font-size: 0.9rem;
-      padding: 6px;
-    }
-  }
+  @media screen and (max-width: 320px) { button { font-size: 0.9rem; padding: 6px; } }
