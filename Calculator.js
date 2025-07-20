@@ -1,17 +1,21 @@
 let currentInput = '';
-
-    function appendNumber(num) {
+    function appendNumber(num) 
+    {
       currentInput += num;
       updateDisplay();
     }
 
-    function appendOperator(operator) {
+
+    function appendOperator(operator) 
+    {
       if (currentInput === '' || /[\+\-\*\/]$/.test(currentInput)) return;
       currentInput += operator;
       updateDisplay();
     }
 
-    function appendDecimal() {
+
+    function appendDecimal() 
+    {
       let parts = currentInput.split(/[\+\-\*\/]/);
       if (!parts[parts.length - 1].includes('.')) {
         currentInput += '.';
@@ -19,51 +23,70 @@ let currentInput = '';
       }
     }
 
-    function clearScreen() {
+
+    function clearScreen() 
+    {
       currentInput = '';
       updateDisplay();
     }
 
-    function deleteNumber() {
+
+    function deleteNumber() 
+    {
       currentInput = currentInput.slice(0, -1);
       updateDisplay();
     }
 
-    function calculate() {
-      try {
+
+    function calculate() 
+    {
+      try 
+      {
         let expression = currentInput.replace(/,/g, '');
         let result = eval(expression);
         currentInput = formatIndianNumber(result.toString());
         updateDisplay();
-      } catch (error) {
+      } 
+      catch (error) 
+      {
         currentInput = 'Error';
         updateDisplay();
       }
     }
 
-    function calculateSquareRoot() {
+
+    function calculateSquareRoot() 
+    {
       if (currentInput === '') return;
       let num = parseFloat(currentInput.replace(/,/g, ''));
-      if (num < 0) {
+      if (num < 0) 
+      {
         currentInput = 'Error';
-      } else {
+      } 
+      else 
+      {
         currentInput = formatIndianNumber(Math.sqrt(num).toString());
       }
       updateDisplay();
     }
 
-    function calculatePercentage() {
+
+    function calculatePercentage() 
+    {
       if (currentInput === '') return;
       let num = parseFloat(currentInput.replace(/,/g, ''));
       currentInput = formatIndianNumber((num / 100).toString());
       updateDisplay();
     }
 
-    function updateDisplay() {
+    function updateDisplay() 
+    {
       document.getElementById('display').value = currentInput;
     }
 
-    function formatIndianNumber(num) {
+
+    function formatIndianNumber(num) 
+    {
       if (num === '' || isNaN(num)) return num;
       let parts = num.split('.');
       let integerPart = parts[0];
