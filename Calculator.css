@@ -56,15 +56,10 @@
   }
 
   button:hover { font-weight: 600; background: #00ffe5b9; color: black; font-weight: bold; transform: translateY(-2px); box-shadow: 0 0 15px rgba(0, 255, 255, 0.6); }
-
   @media screen and (max-width: 480px) {
     .calculator { padding: 15px; border-radius: 15px; }
-
     .calculator-screen { font-size: 1.5rem; padding: 10px; height: 60px; }
-
     button { font-size: 1rem; height: 50px; }
-
     .calculator-keys { gap: 10px; }
   }
-
   @media screen and (max-width: 320px) { button { font-size: 0.9rem; padding: 6px; } }
