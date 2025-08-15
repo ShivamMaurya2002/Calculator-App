@@ -13,22 +13,28 @@
 
 ---
 
-## 🚀 **Live Demo**
-🔗 **[Click here to try the Calculator](https://shivammaurya2002.github.io/Calculator-App/)**  
+<h2 align="center">🚀 Live Demo</h2>
+<p align="center">
+  🔗 <a href="https://shivammaurya2002.github.io/Calculator-App/"><b>Click here to try the Calculator</b></a>
+</p>
 
 ---
 
-## ✨ **Features**
-- 📍 Indian **lakh/crore** number formatting  
-- ➕ **Core operations**: `+`, `-`, `×`, `÷`  
-- 🧮 **Extra functions**: `√` (square root), `%` (percentage), `. ` (decimal)  
-- 🧹 Clear all (**C**) & backspace (**⌫**)  
-- 📱 Fully **responsive** design for mobile & desktop  
-- 🎯 **Accessible** labels & smooth button interactions  
+<h2 align="center">✨ Features</h2>
+<p align="center">
+📍 Indian <b>lakh/crore</b> number formatting <br>
+➕ <b>Core operations</b>: +, -, ×, ÷ <br>
+🧮 <b>Extra functions</b>: √ (square root), % (percentage), . (decimal) <br>
+🧹 Clear all (C) & backspace (⌫) <br>
+📱 Fully <b>responsive</b> design for mobile & desktop <br>
+🎯 Accessible labels & smooth button interactions
+</p>
 
 ---
 
-## 🛠 **Skills & Technologies Used**
+<h2 align="center">🛠 Skills & Technologies Used</h2>
+<p align="center">
+
 | Technology | Purpose |
 |------------|---------|
 | **HTML5** | Structure & semantic elements |
@@ -38,16 +44,19 @@
 | **Flexbox & Grid** | Layout arrangement |
 | **Responsive Design** | Mobile-first approach |
 
+</p>
+
 ---
 
-## 🖥 **Preview**
-> *(Add a screenshot to your repo at `assets/screenshot.png`)*  
-![Calculator Screenshot](assets/screenshot.png)
+<h2 align="center">🖥 Preview</h2>
+<p align="center">
+  <i>(Add a screenshot to your repo at <code>assets/screenshot.png</code>)</i><br>
+  <img src="assets/screenshot.png" alt="Calculator Screenshot">
+</p>
 
 ---
 
 <h2 align="center">📂 Project Structure</h2>
-
 <p align="center">
 <pre>
 Calculator-App/
@@ -58,4 +67,25 @@ Calculator-App/
     └── screenshot.png
 </pre>
 </p>
+
 ---
+
+<h2 align="center">💡 Future Improvements</h2>
+<p align="center">
+⌨ Keyboard input support <br>
+🧠 Memory functions (MC, MR, M+, M-) <br>
+📐 Scientific mode (x², 1/x, sin, cos, etc.) <br>
+🌙 Dark/Light mode toggle <br>
+📱 Installable PWA version
+</p>
+
+---
+
+<h2 align="center">👨‍💻 Author</h2>
+<p align="center">
+<b>Shivam Maurya</b><br>
+🔗 <a href="https://shivammaurya2002.github.io/Calculator-App/">Live Project</a><br>
+💼 Frontend Developer — HTML | CSS | JavaScript
+</p>
+
+<p align="center">✨ Made with ❤️ by <b>Shivam Maurya</b> ✨</p>
