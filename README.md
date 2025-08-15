@@ -45,3 +45,18 @@
 ![Calculator Screenshot](assets/screenshot.png)
 
 ---
+
+<h2 align="center">📂 Project Structure</h2>
+
+<p align="center">
+<pre>
+Calculator-App/
+│── index.html      # HTML structure
+│── style.css       # Styling
+│── script.js       # Calculator logic
+└── assets/
+    └── screenshot.png
+</pre>
+</p>
+
+---
