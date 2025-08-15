@@ -21,7 +21,7 @@ A clean, responsive calculator that formats numbers using the **Indian numbering
 
 > Add a screenshot in your repo (e.g., `assets/screenshot.png`) and uncomment the line below.
 
-<!-- ![Calculator Screenshot](assets/screenshot.png) -->
+ ![Calculator Screenshot](assets/screenshot.png) 
 
 ---
 
