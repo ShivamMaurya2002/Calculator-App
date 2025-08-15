@@ -58,5 +58,4 @@ Calculator-App/
     └── screenshot.png
 </pre>
 </p>
-
 ---
