@@ -21,7 +21,7 @@
 ---
 
 <h2 align="center">✨ Features</h2>
-<p align="center">
+<p >
 📍 Indian <b>lakh/crore</b> number formatting <br>
 ➕ <b>Core operations</b>: +, -, ×, ÷ <br>
 🧮 <b>Extra functions</b>: √ (square root), % (percentage), . (decimal) <br>
