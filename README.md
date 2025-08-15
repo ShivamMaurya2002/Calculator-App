@@ -45,5 +45,3 @@
 ![Calculator Screenshot](assets/screenshot.png)
 
 ---
-
-## 📂 **Project Structure**
