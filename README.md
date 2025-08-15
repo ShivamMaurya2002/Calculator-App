@@ -1,3 +1,4 @@
+
 # Indian Format Calculator
 
 A clean, responsive calculator that formats numbers using the **Indian numbering system** (e.g., `12,34,567.89`) and supports common operations like addition, subtraction, multiplication, division, percentage, square root, and more.
