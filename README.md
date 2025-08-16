@@ -85,7 +85,7 @@ Calculator-App/
 │── style.css       # Styling
 │── script.js       # Calculator logic
 └── assets/
-    └── screenshot.png
+    └── Home.png
 </pre>
 </p>
 
