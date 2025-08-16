@@ -56,6 +56,25 @@
 
 </div>
 
+---
+
+<h2 align="center">💡 Future Improvements</h2>
+<p>
+⌨ Keyboard input support <br>
+🧠 Memory functions (MC, MR, M+, M-) <br>
+📐 Scientific mode (x², 1/x, sin, cos, etc.) <br>
+🌙 Dark/Light mode toggle <br>
+📱 Installable PWA version
+</p>
+
+---
+
+<h2 align="center">👨‍💻 Author</h2>
+<p align="center">
+<b>Shivam Maurya</b><br>
+🔗 <a href="https://shivammaurya2002.github.io/Calculator-App/">Live Project</a><br>
+💼 Frontend Developer — HTML | CSS | JavaScript
+</p>
 
 ---
 
@@ -72,23 +91,5 @@ Calculator-App/
 </p>
 
 ---
-
-<h2 align="center">💡 Future Improvements</h2>
-<p align="center">
-⌨ Keyboard input support <br>
-🧠 Memory functions (MC, MR, M+, M-) <br>
-📐 Scientific mode (x², 1/x, sin, cos, etc.) <br>
-🌙 Dark/Light mode toggle <br>
-📱 Installable PWA version
-</p>
-
----
-
-<h2 align="center">👨‍💻 Author</h2>
-<p align="center">
-<b>Shivam Maurya</b><br>
-🔗 <a href="https://shivammaurya2002.github.io/Calculator-App/">Live Project</a><br>
-💼 Frontend Developer — HTML | CSS | JavaScript
-</p>
 
 <p align="center">✨ Made with ❤️ by <b>Shivam Maurya</b> ✨</p>
