@@ -2,15 +2,15 @@
 <h1 align="center">🧮 Indian Format Calculator</h1>
 
 <p align="center">
+  A clean, responsive calculator that formats numbers in the <b>Indian numbering system</b> (e.g., <code>12,34,567.89</code>), supports basic & advanced operations, and works smoothly on any device.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-FFB800?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-brightgreen?style=for-the-badge">
 
-</p>
-
-<p align="center">
-  A clean, responsive calculator that formats numbers in the <b>Indian numbering system</b> (e.g., <code>12,34,567.89</code>), supports basic & advanced operations, and works smoothly on any device.
 </p>
 
 ---
