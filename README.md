@@ -15,11 +15,17 @@
 
 ---
 
-<h2 align="center">🚀 Live Demo</h2>
+<h2 align="center">🚀 Live Demo & Preview</h2>
 
 <p align="center">
+  <!-- Live Demo -->
   <a href="https://shivammaurya2002.github.io/Calculator-App/" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20Now-Calculator%20App-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Live%20Demo-Calculator%20App-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  </a>
+  &nbsp;
+  <!-- Live Preview -->
+  <a href="https://shivammaurya2002.github.io/Calculator-App/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Preview-Available-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Live Preview">
   </a>
 </p>
 
