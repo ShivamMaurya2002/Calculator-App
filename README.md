@@ -82,7 +82,7 @@
 <pre>
 Calculator-App/
 │── index.html      # HTML structure
-│── style.css       # Styling
+│── Calculator.css       # Styling
 │── script.js       # Calculator logic
 └── assets/
     └── Home.png
