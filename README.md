@@ -54,14 +54,6 @@
 
 ---
 
-<h2 align="center">🖥 Preview</h2>
-<p align="center">
-  <i>(Add a screenshot to your repo at <code>assets/screenshot.png</code>)</i><br>
-  <img src="assets/screenshot.png" alt="Calculator Screenshot">
-</p>
-
----
-
 <h2 align="center">📂 Project Structure</h2>
 <p align="center">
 <pre>
