@@ -29,7 +29,7 @@
 <h2 align="center">🖥 Preview</h2>
 <p align="center">
   <i>(Add a screenshot to your repo at <code>assets/screenshot.png</code>)</i><br>
-  <img src="assets/screenshot.png" alt="Calculator Screenshot">
+  <img src="assets/Home.png" alt="Calculator Screenshot">
 </p>
 
 ---
