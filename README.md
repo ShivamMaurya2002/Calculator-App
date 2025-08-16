@@ -24,8 +24,6 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="assets/Home.png" alt="Calculator Screenshot">
 </p>
