@@ -83,7 +83,7 @@
 Calculator-App/
 │── index.html      # HTML structure
 │── Calculator.css       # Styling
-│── script.js       # Calculator logic
+│── Calculator.js       # Calculator logic
 └── assets/
     └── Home.png
 </pre>
