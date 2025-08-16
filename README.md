@@ -73,7 +73,7 @@
 <p align="center">
 <b>Shivam Maurya</b><br>
 🔗 <a href="">GitHub Link</a><br>
-💼 Frontend Developer — HTML | CSS | JavaScript | Bootstrap | Git & GitHub | API Integration | <br> Debugging | Deployment | Basic Of PHP, MySQL, Python, SQL, and AI/ML
+💼 Frontend Developer — HTML | CSS | JavaScript | Bootstrap | Git & GitHub | API Integration <br> | Debugging | Deployment | Basic Of PHP, MySQL, Python, SQL, and AI/ML
 </p>
 
 ---
