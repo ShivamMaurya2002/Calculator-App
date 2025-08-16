@@ -1,4 +1,3 @@
-
 <h1 align="center">🧮 Indian Format Calculator</h1>
 
 <p align="center">
