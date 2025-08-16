@@ -15,8 +15,11 @@
 ---
 
 <h2 align="center">🚀 Live Demo</h2>
+
 <p align="center">
-  🔗 <a href="https://shivammaurya2002.github.io/Calculator-App/"><b>Click here to try the Calculator</b></a>
+  <a href="https://shivammaurya2002.github.io/Calculator-App/" target="_blank">
+    <img src="https://img.shields.io/badge/Try%20Now-Calculator%20App-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+  </a>
 </p>
 
 ---
