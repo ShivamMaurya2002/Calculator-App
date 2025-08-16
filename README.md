@@ -62,18 +62,49 @@
 ⌨ Keyboard input support <br>
 🧠 Memory functions (MC, MR, M+, M-) <br>
 📐 Scientific mode (x², 1/x, sin, cos, etc.) <br>
-🌙 Dark/Light mode toggle <br>
 📱 Installable PWA version
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 Author</h2>
+<h1 align="center">👨‍💻 Author</h1>
+
+<h2 align="center">
+  <b>SHIVAM MAURYA</b>
+</h2>
+
+<h3 align="center">
+  💼 <b>Frontend Developer</b>
+</h3>
+
+<h3 align="center">
+  <a href="https://github.com/ShivamMaurya2002" target="_blank">
+   <img src="https://img.shields.io/badge/GitHub-ShivamMaurya2002-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link">
+  </a>
+</h3>
+
 <p align="center">
-<b>Shivam Maurya</b><br>
-🔗 <a href="https://github.com/ShivamMaurya2002">GitHub Link</a><br>
-💼 Frontend Developer — HTML | CSS | JavaScript | Bootstrap | Git & GitHub | API Integration <br> | Debugging | Deployment | Basic Of PHP, MySQL, Python, SQL, and AI/ML
+  <b>🧠 Skills:</b> <br> <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-FFB800?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Deployment-430098?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
+
+<p align="center">
+  📘 <b>Basics:</b> <br> <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
+
+
 
 ---
 
