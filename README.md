@@ -72,8 +72,8 @@
 <h2 align="center">👨‍💻 Author</h2>
 <p align="center">
 <b>Shivam Maurya</b><br>
-🔗 <a href="https://shivammaurya2002.github.io/Calculator-App/">Live Project</a><br>
-💼 Frontend Developer — HTML | CSS | JavaScript
+🔗 <a href="">GitHub Link</a><br>
+💼 Frontend Developer — HTML | CSS | JavaScript | Bootstrap | Git & GitHub | API Integration | <br> Debugging | Deployment | Basic Of PHP, MySQL, Python, SQL, and AI/ML
 </p>
 
 ---
