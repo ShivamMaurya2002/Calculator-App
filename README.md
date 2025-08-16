@@ -26,6 +26,14 @@
 
 ---
 
+<h2 align="center">🖥 Preview</h2>
+<p align="center">
+  <i>(Add a screenshot to your repo at <code>assets/screenshot.png</code>)</i><br>
+  <img src="assets/screenshot.png" alt="Calculator Screenshot">
+</p>
+
+---
+
 <h2 align="center">✨ Features</h2>
 <p >
 📍 Indian <b>lakh/crore</b> number formatting <br>
