@@ -43,8 +43,8 @@
 ---
 
 <h2 align="center">🛠 Skills & Technologies Used</h2>
-<p align="center">
-  
+<div align="center">
+
 | Technology | Purpose |
 |------------|---------|
 | **HTML5** | Structure & semantic elements |
@@ -54,7 +54,8 @@
 | **Flexbox & Grid** | Layout arrangement |
 | **Responsive Design** | Mobile-first approach |
 
-</p>
+</div>
+
 
 ---
 
