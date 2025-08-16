@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📌 A clean, responsive calculator that formats numbers in the <b>Indian numbering system</b> (e.g., <code>12,34,567.89</code>), supports basic & advanced operations, and works smoothly on any device.
+  A clean, responsive calculator that formats numbers in the <b>Indian numbering system</b> (e.g., <code>12,34,567.89</code>), supports basic & advanced operations, and works smoothly on any device.
 </p>
 
 ---
