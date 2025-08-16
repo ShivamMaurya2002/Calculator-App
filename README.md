@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">🚀 Live Demo & Preview</h2>
+<h2 align="center">🚀 Live Preview</h2>
 
 <p align="center">
   <!-- Live Demo -->
