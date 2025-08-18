@@ -104,11 +104,9 @@
   <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
-
-
 ---
 
-<h2 align="center">📂 Project Structure</h2>
+<!-- <h2 align="center">📂 Project Structure</h2>
 <p align="center">
 <pre>
 Calculator-App/
@@ -118,7 +116,7 @@ Calculator-App/
 └── assets/
     └── Home.png
 </pre>
-</p>
+</p> -->
 
 ---
 
